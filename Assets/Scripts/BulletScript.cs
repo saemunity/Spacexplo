@@ -4,12 +4,8 @@ using UnityEngine;
 
 public class BulletScript : MonoBehaviour
 {
-    Rigidbody2D rb;
-
-    private void Awake()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
+    public int damageAttack = 1;
+    public float fireForce;
 
     // Start is called before the first frame update
     void Start() { }
@@ -19,10 +15,7 @@ public class BulletScript : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.position = new Vector2(
-            Mathf.Clamp(transform.position.x, -40f, 40f),
-            Mathf.Clamp(transform.position.y, -40f, 40f)
-        );
+        this.transform.position += this.transform.right * this.fireForce * Time.deltaTime;
 
         if (
             transform.position.x < -39f
@@ -33,5 +26,12 @@ public class BulletScript : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        EnemyController enemyController = other.GetComponent<EnemyController>();
+        enemyController.TakeDamage(damageAttack);
+        Destroy(this.gameObject);
     }
 }
