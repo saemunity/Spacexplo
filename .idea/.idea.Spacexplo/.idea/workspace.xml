@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346da281-dc78-40a9-81b6-2a45438304f2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BulletEnemies.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BulletEnemies.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1695104050292" expanded="true" signature="6:78" ph="..." />
+                <marker date="1695104050292" expanded="true" signature="122:1134" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="208:910" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="261:326" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="415:481" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="494:560" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="851:904" ph="{...}" />
+                <marker date="1695104050292" expanded="true" signature="963:1132" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BulletEnemies.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@7.0.9/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.common@6.0.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.path@5.0.2/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.psdimporter@6.0.7/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.sprite@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.spriteshape@7.0.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.tilemap.extras@2.2.4/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.2d.tilemap@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.0.1/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.feature.2d@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.5/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.ai@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.animation@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.audio@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.director@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.imgui@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.physics@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.ui@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.uielements@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.umbra@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.video@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.vr@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.wind@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.xr@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.31/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/package.json" />
+      <path value="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.8.0/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Spacexplo" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Spacexplo" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346da281-dc78-40a9-81b6-2a45438304f2" name="Default" comment="" />
+      <created>1695176672399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695176672399</updated>
+      <workItem from="1695176673631" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="256000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BulletEnemies.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1695104050292" expanded="true" signature="6:78" ph="..." />
+            <marker date="1695104050292" expanded="true" signature="122:1134" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="208:910" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="261:326" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="415:481" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="494:560" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="851:904" ph="{...}" />
+            <marker date="1695104050292" expanded="true" signature="963:1132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

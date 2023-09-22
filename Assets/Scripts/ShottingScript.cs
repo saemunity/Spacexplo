@@ -24,6 +24,10 @@ public class ShottingScript : MonoBehaviour
         Vector3 rotation = mousePos - transform.position;
         float rotZ = Mathf.Atan2(rotation.y, rotation.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0, 0, rotZ);
+        Debug.Log("mousePos: " + mousePos);
+        Debug.Log("rotation: " + rotation);
+        Debug.Log("rotZ: " + rotZ);
+        Debug.Log("transform.rotation: " + transform.rotation);
     }
 
     public void Fire()
